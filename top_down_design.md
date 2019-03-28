@@ -1,0 +1,43 @@
+How to get food at a restaurant
+-get seated
+  -walk through door
+    -walk to host stand
+    -stop at host stand
+  -let host know how many people you have in your party
+  -follow host to table
+  -sit down at table
+-look at menu
+  -open menu
+  -read contents
+  -make a decision about what you want
+-order food
+  -wait for server to ask what you want
+  -ask any questions you have have about the menu
+    -is this gluten free
+    -is this dairy free
+    -is this free range
+  -express what you want
+  -answer questions asked of you by your server
+    -temperature of meat
+      -rare
+      -medium rare
+      -medium
+      -medium well
+      -well done
+  -express your modifications
+    -what items do you not want in your dish
+      -onion
+      -tomato
+      -lettuce
+      -mayo
+      -pickle
+      -mushroom
+      -cheese
+    -what items do you want to add to your dish
+      -spinach
+      -avocado
+      -guacamole
+  -wait as the server performs the necessary steps to get your food to you
+  -server brings food to table when ready
+    -sets food  down in front of each person at table
+  -you're ready to eat!
