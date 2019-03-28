@@ -1,0 +1,11 @@
+Orange juice is and instance of beverages
+
+
+true
+false
+"yellow"
+
+
+3
+26
+5
