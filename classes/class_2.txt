@@ -1,0 +1,11 @@
+Class Beverages
+
+Attributes
+has_pulp (boolean)
+is_it_dairy (boolean)
+color (string)
+
+Methods
+number_in_order (how many of these types of beverages in an order)
+how_many_in_stock (tally the number in each fridge)
+how_much_used_during_hours_open (total number at beginning of day minus total number at the end of day)
