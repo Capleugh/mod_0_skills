@@ -1,0 +1,11 @@
+Ramekin is and instance of Dish
+
+
+"tiny bowl"
+3
+false
+
+
+false
+[ranch, mayo, honey mustard]
+15
