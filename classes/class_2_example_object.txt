@@ -1,4 +1,4 @@
-Orange juice is and instance of beverages
+Orange juice is and instance of beverage
 
 
 true
@@ -8,4 +8,4 @@ false
 
 3
 26
-5
+15
