@@ -1,0 +1,11 @@
+Class Dessert
+
+Attributes
+served_cold (boolean)
+ingredients (array)
+bake_temp (integer)
+
+Methods
+list_ingredient_type (list necessary ingredients in an array)
+calculate_pan_yield (number of servings that a pan will yield)
+calculate_percent_sale (divide dessert sales by total sales, then multiply by 100)
