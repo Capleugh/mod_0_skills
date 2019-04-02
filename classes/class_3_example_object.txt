@@ -1,0 +1,10 @@
+Cinnamon roll is an instance of Dessert
+
+false
+[ ]
+350
+
+
+[ * ]
+15
+5
