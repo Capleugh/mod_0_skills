@@ -3,9 +3,9 @@ Class Dish
 Attributes
 type (string)
 total_volume (integer)
-is_it_ceramic (boolean)
+ceramic (boolean)
 
 Methods
 is_heavy (if dish weighs more than 1 lb; returns true)
-types_of_food (types_of_food that can occupy bowl added to array)
-how_many_can_fit_on_tray (area of tray divided by area of dish)
+add_food_type (types of food that can occupy dish added to array)
+calculate_clean_dishes (subtract number of dirty dishes from total number of dishes)
