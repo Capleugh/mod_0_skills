@@ -7,5 +7,5 @@ false
 
 
 false
-[ranch, mayo, honey mustard]
-15
+[ * ]
+60 - 15 = 45
